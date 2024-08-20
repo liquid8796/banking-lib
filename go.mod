@@ -1,4 +1,4 @@
-module banking-lib
+module github.com/liquid8796/banking-lib
 
 go 1.23.0
 
